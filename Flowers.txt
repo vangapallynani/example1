@@ -2,3 +2,6 @@ welcome to  my garden
 a.roses
 b.hibiscus
 c.jasmine
+d.lotus
+e.tulip
+f.lily
